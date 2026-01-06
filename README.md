@@ -1,136 +1,106 @@
-📊 Business Insights 360 – AtliQ
+# 📊 Business Insights 360 – AtliQ  
+### Power BI Dashboard for Finance, Sales, Marketing & Supply Chain
 
-Power BI Dashboard for Finance, Sales, Marketing & Supply Chain
+---
 
-🔍 Project Short Info
+## 🔍 Project Overview
 
-AtliQ Hardwares is a rapidly growing consumer electronics company. As the business expanded globally, the organization continued to rely heavily on Excel-based reporting, which limited its ability to compete with data-driven competitors.
+AtliQ Hardwares is a rapidly growing consumer electronics company. As the company expanded globally, most reports were still maintained in Excel, limiting the ability to compete with data-driven organizations.
 
-The goal of this project was to build a centralized Power BI analytics solution that enables stakeholders to gain actionable insights and make informed, data-driven decisions across multiple business functions.
+This project implements a centralized **Power BI analytics solution** to enable stakeholders to gain insights and make informed, data-driven business decisions.
 
-🎯 Project Objective
+---
 
-To design a single, integrated Power BI dashboard that provides a 360-degree view of the business, serving stakeholders from:
+## 🎯 Project Objective
 
-Finance
+To build a single Power BI dashboard that provides a **360-degree view of the business** for:
 
-Sales
+- Finance  
+- Sales  
+- Marketing  
+- Supply Chain  
+- Executive Leadership  
 
-Marketing
+---
 
-Supply Chain
+## 🧩 Project Description
 
-Executive Leadership
+This project delivers an end-to-end Business Intelligence solution using Power BI.  
+The dashboard is designed with focus on:
 
-🧩 Project Description
+- Robust and scalable data modeling  
+- User-empathetic and intuitive design  
+- Drillable and actionable insights  
+- Business storytelling using visuals  
 
-This project focuses on delivering an end-to-end Business Intelligence solution using Power BI.
-The dashboard was designed with emphasis on:
+---
 
-Robust and scalable data modeling
+## 🛠️ Tech Stack
 
-User-empathetic and intuitive dashboard design
+- SQL  
+- Power BI Desktop  
+- Excel  
+- DAX  
+- DAX Studio  
 
-Drillable insights for deeper analysis
+---
 
-Business storytelling through visuals
+## 📘 Skills & Learnings
 
-The report helps leadership monitor performance, analyze trends, and understand key business drivers across regions, products, and channels.
+- Power Query (basic & advanced transformations)  
+- Writing basic and complex DAX measures  
+- Data modeling involving more than 10 tables  
+- Snowflake schema implementation  
+- Visual selection and formatting best practices  
+- Dashboard design principles  
+- Bookmarks and page navigation  
+- KPI indicators and conditional formatting  
+- Power BI Service deployment  
+- Data refresh and gateway setup  
+- Stakeholder feedback implementation  
 
-🛠️ Tech Stack
+---
 
-SQL
+## 🗂️ Data Model Overview
 
-Power BI Desktop
+- Dimension tables: Customers, Products, Markets  
+- Fact tables: Sales and Forecast data  
+- Supporting tables: Pricing, Cost, Freight, Deductions  
 
-Excel
+The model is optimized for performance and scalability.
 
-DAX
+---
 
-DAX Studio (for report optimization)
+## 🎨 Dashboard Views
 
-📘 Key Learnings & Skills Applied
+- Home  
+- Info  
+- Finance  
+- Sales  
+- Marketing  
+- Supply Chain  
+- Executive  
+- Products  
 
-Power Query (basic & advanced transformations)
+Each page is designed to serve specific business stakeholders.
 
-Writing basic and complex DAX measures
+---
 
-Data modeling involving 10+ tables
+## 🔗 Live Dashboard
 
-Implementing Snowflake schema
-
-Choosing the right visuals and formatting
-
-Dashboard design principles & storytelling
-
-Using bookmarks and page navigation
-
-KPI indicators & conditional formatting
-
-Publishing reports to Power BI Service
-
-Setting up data refresh using gateway
-
-Implementing stakeholder feedback
-
-Analyzing Finance, Sales, Marketing & Supply Chain metrics
-
-🗂️ Data Model Overview
-
-Dimension Tables: Customers, Products, Markets
-
-Fact Tables: Sales & Forecast data
-
-Additional Tables: Pricing, Cost, Freight, Deductions
-
-The data model was designed following best practices to ensure:
-
-High performance
-
-Scalability
-
-Accurate business metrics
-
-🎨 Dashboard Views
-
-The dashboard consists of the following views:
-
-Home
-
-Info
-
-Finance
-
-Sales
-
-Marketing
-
-Supply Chain
-
-Executive
-
-Products
-
-Each view is designed to address specific stakeholder needs with clear KPIs and drill-through capabilities.
-
-🔗 Important Links
-
-👉 Live Power BI Dashboard:
+👉 **Click here to view the Live Power BI Dashboard**  
 https://app.powerbi.com/links/13xsA3Ifr4?ctid=1d12b6fc-e930-4b53-9ed2-8d0664b0baf1&pbi_source=linkShare
 
-👉 GitHub Repository:
-(You are currently viewing this repository)
+---
 
+## 📈 Project Outcome
 
-📈 Project Outcome
+- Centralized business reporting  
+- Reduced dependency on Excel  
+- Faster and more accurate decision-making  
+- Improved visibility into business performance  
+- Enabled leadership to answer business “why” questions  
 
-Centralized reporting across departments
+---
 
-Reduced dependency on Excel-based analysis
-
-Faster and more accurate decision-making
-
-Improved visibility into business performance
-
-Enabled leadership to answer critical “why” questions using data
-
+ consider starring the repository.
